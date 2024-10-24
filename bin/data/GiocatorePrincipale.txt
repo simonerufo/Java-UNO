@@ -1,0 +1,6 @@
+Player
+0
+0
+0
+1
+src\view\assets\avatars\avatar_0.png
