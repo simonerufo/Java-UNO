@@ -5,3 +5,5 @@ i've used Model view controller and Observer Observable as patterns.
 The CPU players AI is totally random (obviously every move follows the game rules).
 
 this project was made in 2021.
+
+Enjoy it!!!
